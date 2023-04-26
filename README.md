@@ -18,6 +18,7 @@ Você pode acompanhar meus estudos por esse repositório: [Estudos Alura](https:
 - Desenvolvimento Backend: **Java (Conhecimento no framework Spring), JSF, JPA, PrimeFaces, RichFaces*
 - Banco de dados: Conhecimento em bancos Relacionais e não relacionais como: **Oracle, MySQL, PostgresSQL e MongoDB**
 - Outras ferramentas: **Docker**
+- Infraestrutura: Administração/ Vituralização de servidores Windows (AD, DHCP, DNS, FILESERVER) e Linux (Centos, Ubuntu); Configuração física e lógica de redes (TCP/IP, ranges de IP, subnets/máscaras, gateways, roteamento, topologia de rede, etc.);
 <!--
 Here are some ideas to get you started:
 
